@@ -6,6 +6,7 @@ body {
 	height:50vw;
 }
 #line {
+	position: absolute;
 	color: black;
 	width: 200px;
 	border: 1px solid black;
