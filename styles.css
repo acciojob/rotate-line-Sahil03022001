@@ -1,13 +1,7 @@
 /*  your css code here. If applicable */
-body {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	height:50vw;
-}
 #line {
 	position: absolute;
 	color: black;
 	width: 200px;
-	border: 1px solid black;
+	height: 2px;
 }
